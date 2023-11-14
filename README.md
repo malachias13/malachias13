@@ -1,6 +1,9 @@
 # Malachias Harris
 
 **`Programmer`**
+Hello, I am Malachias Harris and I create software. I enjoy building desktop and console applications. I do occasionally pop open the android studio and see if I can prototype the new app idea my family members have for me. I took some computer graphics and computer networking classes, at my university. I build rasterizers, 3D renderers, and TCP/UDP chat applications.
+
+
 <!--
 **malachias13/malachias13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
