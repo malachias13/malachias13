@@ -2,6 +2,11 @@
 
 **`Programmer`**
 
+https://github.com/malachias13/malachias13/assets/69220988/5ac198b4-2e48-414c-b76f-3d575901c192
+
+
+
+
 Hello, I am Malachias Harris and I create software. I enjoy building desktop and console applications. I do occasionally pop open the android studio and see if I can prototype the new app idea my family members have for me. I took some computer graphics and computer networking classes, at my university. I build rasterizers, 3D renderers, and TCP/UDP chat applications.
 
 
