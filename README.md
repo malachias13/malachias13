@@ -2,7 +2,6 @@
 
 **`Programmer`**
 
-https://github.com/malachias13/malachias13/assets/69220988/5ac198b4-2e48-414c-b76f-3d575901c192
 
 
 
