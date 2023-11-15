@@ -2,6 +2,7 @@
 
 **`Programmer`**
 
+<img src="https://drive.google.com/file/d/1Qef-f9_GDi_MDmMbteeBVDXcOkp959IW/view?usp=sharing" />
 
 Hello, I am Malachias Harris and I create software. I enjoy building desktop and console applications. I do occasionally pop open the android studio and see if I can prototype the new app idea my family members have for me. I took some computer graphics and computer networking classes, at my university. I build rasterizers, 3D renderers, and TCP/UDP chat applications.
 
