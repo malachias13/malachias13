@@ -6,7 +6,7 @@
 
 Hello, I am Malachias Harris and I create software. I enjoy building desktop and console applications. I do occasionally pop open the android studio and see if I can prototype the new app idea my family members have for me. I took some computer graphics and computer networking classes, at my university. I build rasterizers, 3D renderers, and TCP/UDP chat applications.
 
-#### [My Portfolio](https://www.mharris.games/) [My Linkedin](https://www.linkedin.com/in/malachias-harris-a9804a1b6/)
+#### [My Portfolio](https://www.mharris.games/)  |  [My Linkedin](https://www.linkedin.com/in/malachias-harris-a9804a1b6/)
 ---
 
 ### 🧰 Languages and Tools
