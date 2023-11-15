@@ -4,8 +4,6 @@
 
 <img src="https://drive.google.com/file/d/1Qef-f9_GDi_MDmMbteeBVDXcOkp959IW/view?usp=sharing" />
 
-<a href="https://drive.google.com/uc?export=view&id=<1Qef-f9_GDi_MDmMbteeBVDXcOkp959IW>"><img src="https://drive.google.com/uc?export=view&id=<1Qef-f9_GDi_MDmMbteeBVDXcOkp959IW>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
 Hello, I am Malachias Harris and I create software. I enjoy building desktop and console applications. I do occasionally pop open the android studio and see if I can prototype the new app idea my family members have for me. I took some computer graphics and computer networking classes, at my university. I build rasterizers, 3D renderers, and TCP/UDP chat applications.
 
 ---
