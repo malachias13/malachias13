@@ -3,6 +3,8 @@
 **`Programmer`**
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/DT4JIa3fZNqxFS3fSM/giphy.gif" width="40" height="40" />
+
 
 
 Hello, I am Malachias Harris and I create software. I enjoy building desktop and console applications. I do occasionally pop open the android studio and see if I can prototype the new app idea my family members have for me. I took some computer graphics and computer networking classes, at my university. I build rasterizers, 3D renderers, and TCP/UDP chat applications.
